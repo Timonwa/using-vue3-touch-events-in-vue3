@@ -38,10 +38,10 @@ export default {
       };
     },
     onSwipeItem() {
-      return (this.name = "swipped");
+      return (this.name = "swiped");
     },
     onSwipeLeftItem() {
-      return (this.name = "swipped left");
+      return (this.name = "swiped left");
     },
     onDragItem() {
       return (this.name = "dragged");
