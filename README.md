@@ -1,6 +1,8 @@
 # Using Vue3-Touch-Events in Vue3 ✍️
 
-This is the code example for my article on [Understanding Vue.js touch events for Android and iOS](https://blog.logrocket.com/author/pelumiakintokun/), written for [LogRocket](https://logrocket.com/).
+This is the code example for my article on [Understanding Vue.js touch events for Android and iOS](https://blog.logrocket.com/understanding-vue-touch-events-android-ios/), written for [LogRocket](https://logrocket.com/).
+
+Visit my blog, [Timonwa's Notes](https://blog.timonwa.com), for awesome technical content like articles, code snippets, tech goodies, community projects, and more.
 
 ## Summary
 Touch events are triggered by users on touchscreen devices like mobile phones or tablets. This article explains 
